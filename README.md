@@ -1,16 +1,15 @@
-## Hi there 👋
+# João Ciriaco
 
-<!--
-**JoaoCCiriaco/JoaoCCiriaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ESALQ/USP | Systems Analysis and Development (ADS)
 
-Here are some ideas to get you started:
+CS50x Harvard | Cloud Security with CSPM: Monitoring and Compliance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️️ Projects
+- 🎮 **Project: Event Horizon Protocol 50x** — Developed on the Scratch platform.
+- ⚙️ **Management System** — Operations management and automation system for service control.
+
+---
+
+📫 **Contact:** [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-victor-ciriaco-de-camargo-85a8631b0)
