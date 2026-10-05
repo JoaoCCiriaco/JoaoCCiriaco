@@ -13,4 +13,3 @@ CS50x Harvard | Cloud Security with CSPM: Monitoring and Compliance
 
 ---
 
-📫 **Contact:** [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-victor-ciriaco-de-camargo-85a8631b0)
