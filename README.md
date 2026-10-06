@@ -28,7 +28,15 @@ Plataforma de inteligência preditiva e geoespacial voltada à análise de risco
 ---
 
 ## 💻 Tecnologias & Ferramentas
-Linguagens: Python, C, SQL, HTML, CSS, JavaScript, TypeScript
-Desenvolvimento & Backend: Flask, SQLite, Git, GitHub
-Design & Comunicação: Identidade Visual, Branding, Naming, UI/UX, Design de Interfaces
-Áreas de Atuação & Interesse: Engenharia de Software, Dados & Analytics, Automação & Operações, Sistemas Geoespaciais, AgriTech, ClimateTech, Computação em Nuvem, Cibersegurança, Sistemas Inteligentes
+
+### Linguagens
+<kbd>Python</kbd> · <kbd>C</kbd> · <kbd>SQL</kbd> · <kbd>HTML</kbd> · <kbd>CSS</kbd> · <kbd>JavaScript</kbd> · <kbd>TypeScript</kbd>
+
+### Desenvolvimento & Backend
+<kbd>Flask</kbd> · <kbd>SQLite</kbd> · <kbd>Git</kbd> · <kbd>GitHub</kbd>
+
+### Design & Comunicação
+<kbd>Identidade Visual</kbd> · <kbd>Branding</kbd> · <kbd>Naming</kbd> · <kbd>UI/UX</kbd> · <kbd>Design de Interfaces</kbd>
+
+### Áreas de Atuação & Interesse
+<kbd>Engenharia de Software</kbd> · <kbd>Dados & Analytics</kbd> · <kbd>Automação & Operações</kbd> · <kbd>Sistemas Geoespaciais</kbd> · <kbd>AgriTech</kbd> · <kbd>ClimateTech</kbd> · <kbd>Computação em Nuvem</kbd> · <kbd>Cibersegurança</kbd> · <kbd>Sistemas Inteligentes</kbd>
