@@ -44,4 +44,5 @@ Predictive and geospatial intelligence platform designed for risk analysis relat
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoCCiriaco&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
