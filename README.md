@@ -45,4 +45,4 @@ Predictive and geospatial intelligence platform designed for risk analysis relat
 
 ## 📊 GitHub Stats
 
-[![German Bartoli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=germanbartoli&show_icons=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9&border_color=161b22)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoCCiriaco&show_icons=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9&border_color=161b22)](https://github.com/anuraghazra/github-readme-stats)
