@@ -11,7 +11,7 @@ Systems Analysis and Development student focused on software engineering, data e
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 ### [CropCast](https://github.com/JoaoCCiriaco/CropCast)
 Climate intelligence platform for agriculture exploring how climate change affects different crops and regions over time.  
