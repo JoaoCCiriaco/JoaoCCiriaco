@@ -1,7 +1,7 @@
 # João Ciriaco
 
 **Software Developer | Systems, Data & Design**  
-ESALQ/USP • Systems Analysis and Development (ADS)
+Systems Analysis and Development (ADS)
 
 📚 CS50x: Introduction to Computer Science — *Harvard University* • Cloud Security with CSPM: Monitoring and Compliance
 
