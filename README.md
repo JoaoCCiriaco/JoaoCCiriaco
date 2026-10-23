@@ -20,27 +20,35 @@ Climate intelligence platform for agriculture exploring how climate change affec
 
 ### [RegNav](https://github.com/JoaoCCiriaco/regnav)
 
-Regulatory risk intelligence and compliance navigation platform designed to help organizations assess regulatory exposure, identify applicable frameworks, analyze risks, and manage compliance action plans.  
+Regulatory risk intelligence and compliance navigation platform designed to help organizations assess regulatory exposure, identify relevant regulatory frameworks, analyze risks, and organize preliminary compliance action plans.
+
+🌐 **[Live Platform](https://regnav-w7u5.onrender.com/)**
+
 `Regulatory Intelligence` · `Risk Assessment` · `Compliance` · `Python` · `Flask`
 
 ### [PestPredict SP](https://github.com/JoaoCCiriaco/PestPredict-SP)
 
 Predictive and geospatial intelligence platform designed for risk analysis related to urban and agricultural pests in the state of São Paulo.  
 `Geospatial Data` · `Predictive Analytics` · `Environmental Intelligence` · `Agriculture`
+
 ---
 
 ## 💻 Technologies & Tools
 
 ### Languages
+
 <kbd>Python</kbd> · <kbd>C</kbd> · <kbd>SQL</kbd> · <kbd>HTML</kbd> · <kbd>CSS</kbd> · <kbd>JavaScript</kbd> · <kbd>TypeScript</kbd>
 
 ### Development & Backend
+
 <kbd>Flask</kbd> · <kbd>SQLite</kbd> · <kbd>Git</kbd> · <kbd>GitHub</kbd>
 
 ### Design & Communication
+
 <kbd>Visual Identity</kbd> · <kbd>Branding</kbd> · <kbd>Naming</kbd> · <kbd>UI/UX</kbd> · <kbd>Interface Design</kbd>
 
 ### Areas of Focus & Interest
+
 <kbd>Software Engineering</kbd> · <kbd>Data & Analytics</kbd> · <kbd>Automation & Operations</kbd> · <kbd>Geospatial Systems</kbd> · <kbd>AgriTech</kbd> · <kbd>ClimateTech</kbd> · <kbd>Cloud Computing</kbd> · <kbd>Cybersecurity</kbd> · <kbd>Intelligent Systems</kbd>
 
 ---
