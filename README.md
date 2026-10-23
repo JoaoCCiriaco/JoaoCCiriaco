@@ -14,17 +14,19 @@ Systems Analysis and Development student focused on software engineering, data e
 ## 📂 Featured Projects
 
 ### [CropCast](https://github.com/JoaoCCiriaco/CropCast)
+
 Climate intelligence platform for agriculture exploring how climate change affects different crops and regions over time.  
 `Climate Data` · `Geospatial Analysis` · `Risk Assessment` · `Agriculture` · `Sustainability`
 
-### [AtlasAct](https://github.com/JoaoCCiriaco/AtlasAct)
-Dashboard built to inventory and classify Artificial Intelligence systems according to EU AI Act requirements, exploring technology, governance, and compliance.  
-`Artificial Intelligence` · `EU AI Act` · `Compliance` · `Data Management` · `Software`
+### [RegNav](https://github.com/JoaoCCiriaco/regnav)
+
+Regulatory risk intelligence and compliance navigation platform designed to help organizations assess regulatory exposure, identify applicable frameworks, analyze risks, and manage compliance action plans.  
+`Regulatory Intelligence` · `Risk Assessment` · `Compliance` · `Python` · `Flask`
 
 ### [PestPredict SP](https://github.com/JoaoCCiriaco/PestPredict-SP)
+
 Predictive and geospatial intelligence platform designed for risk analysis related to urban and agricultural pests in the state of São Paulo.  
 `Geospatial Data` · `Predictive Analytics` · `Environmental Intelligence` · `Agriculture`
-
 ---
 
 ## 💻 Technologies & Tools
