@@ -26,7 +26,7 @@ Regulatory risk intelligence and compliance navigation platform designed to help
 
 `Regulatory Intelligence` · `Risk Assessment` · `Compliance` · `Python` · `Flask`
 
-### [PestPredict SP](https://github.com/JoaoCCiriaco/PestPredict-SP)
+### [PestPredict SP](https://github.com/JoaoCCiriaco/pest-predict)
 
 Predictive and geospatial intelligence platform designed for risk analysis related to urban and agricultural pests in the state of São Paulo.  
 `Geospatial Data` · `Predictive Analytics` · `Environmental Intelligence` · `Agriculture`
